@@ -1,0 +1,116 @@
+/*Etilo para 'ejercicio_html.html*/
+div.header{background-color: #fafafa}
+h1{
+	text-align: center;
+}
+h1.title1{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:85px;
+	font-style: italic;
+	color: #1a1a1a;
+	margin: 0px;
+}
+span.rr{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:105px;
+	font-style: normal;
+	color: black;
+	}
+span.title2{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:85px;
+	font-style: italic;
+	color: #1a1a1a;
+}
+#subtitle{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+	font-weight: bolder; 
+	color: #00004d;
+	margin-top: 0px;
+}
+#phrase{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+	font-size: 90px;
+	color: #000066;
+	font-weight: 700;
+	margin-bottom: 0px;
+}
+#img_header{
+	width: 100%;
+	height: auto;
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+p{
+	font-family: Tahoma, Geneva, sans-serif; 
+	font-weight: 200; 
+	font-size: 17px;
+	color: #4d4d4d;
+	text-align: justify;
+	margin: 80px 120px;
+}
+h3.doubts{
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+	font-weight: bold;
+	font-size: 20px;
+	letter-spacing: 2px; 
+	color: #000099;
+	text-align: center;
+}
+p.p_doubts{
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+	font-weight: 200; 
+	color: #333333;
+	text-align: center;
+	margin-top: 0px;
+	font-style: italic;
+}
+span.i_think{
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif; 
+	color: #000066;
+	font-weight: 600;
+}
+p.end{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+	font-size: 20px;
+	color: #262626;
+	text-align: center;
+	margin: 80px 350px;
+}
+div.list_books{
+	margin: 0px 275px;
+}
+h2.list_title{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+	font-size: 30px;
+	color: #000066;
+	font-weight: 500;
+}
+ul.books{
+	list-style-type: none;
+	font-family: Tahoma, Geneva, sans-serif; 
+	font-weight: 200; 
+	font-size: 17px;
+	color: #4d4d4d;
+}
+span.year{
+	font-family: Tahoma, Geneva, sans-serif; 
+	font-weight: bold; 
+	font-size: 17px;
+	color: #4d4d4d;
+}
+p.ref1{
+	font-family: Tahoma, Geneva, sans-serif; 
+	font-weight: 200; 
+	font-size: 15px;
+	color: #333333;
+	text-align: left;
+}
+p.author{
+	font-family: Tahoma, Geneva, sans-serif; 
+	font-weight: 200; 
+	font-size: 11px;
+	color: #333333;
+	text-align: center;
+}
